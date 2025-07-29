@@ -9,7 +9,17 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 # 💫 About Me:
-🚀 I’m working on a Next.js & Django project with JWT and multi-language support.<br><br>🤝 I’m open to collaborating on real-time apps & API integrations. <br><br>🤝 I need help with optimizing WebRTC performance.<br><br>🌱 I’m learning FastAPI & improving my Laravel & Next.js skills.<br><br>💬 Ask me about Next.js, Django, Laravel & APIs.  <br><br>⚡ Fun fact: I graduated from ALX
+🚀 I'm currently working on a Next.js & Django project with JWT authentication and multi-language support.
+<br>
+🤝 Open to collaborations on real-time applications and API integrations.
+<br>
+🛠️ I’m seeking help with optimizing WebRTC performance.
+<br>
+🌱 Actively learning Advanced Django, and sharpening my skills in Laravel and Next.js.
+<br>
+💬 Feel free to ask me about Next.js, Django, Laravel, and API development.
+<br>
+🎓 Fun fact: I'm a proud graduate of ALX.
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
