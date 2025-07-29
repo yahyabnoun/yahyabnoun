@@ -13,8 +13,6 @@
 <br>
 🤝 Open to collaborations on real-time applications and API integrations.
 <br>
-🛠️ I’m seeking help with optimizing WebRTC performance.
-<br>
 🌱 Actively learning Advanced Django, and sharpening my skills in Laravel and Next.js.
 <br>
 💬 Feel free to ask me about Next.js, Django, Laravel, and API development.
